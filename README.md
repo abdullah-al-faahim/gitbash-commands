@@ -103,7 +103,6 @@ whoami
 This cheat sheet is open-source and free to use under the [MIT License](https://mit-license.org/).
 
 ## 📧 Contact
---
 Abdullah Al Fahim | alfahim604@yahoo.com
 
 
