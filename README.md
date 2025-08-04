@@ -88,6 +88,9 @@ find . -name "*.txt"
 
 ### **View & Edit**
 ```bash
+cat file.txt
+nano file.txt
+less file.txt
 ```
 
 ## **Useful Extras**
