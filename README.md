@@ -9,7 +9,9 @@ This cheat sheet is perfect for developers working on Windows who use Git Bash f
 	<h2 align="center">📄 Download the PDF</h2>
 	<p align="center">
     	You can download the printable PDF version of this cheat sheet here:  <br>
-[📥 Download Git Bash Command Cheat Sheet](https://github.com/abdullah-al-faahim/gitbash-commands/raw/main/git_bash_cheat_sheet.pdf)
+[📥 Download Git Bash Command Cheat Sheet](https://github.com/abdullah-al-faahim/gitbash-commands/raw/main/git_bash_cheat_sheet.pdf)<br>
+		![Static Badge](https://img.shields.io/badge/Download--Cheat--Sheet?link=https%3A%2F%2Fgithub.com%2Fabdullah-al-faahim%2Fgitbash-commands%2Fblob%2Fmain%2Fgit_bash_cheat_sheet.pdf)
+
   	</p>
 </div>
 
