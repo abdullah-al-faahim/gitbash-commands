@@ -8,7 +8,7 @@ You can't realistically list all commands in a single message because:
 1. Git has hundreds of commands and options.
 2. Bash supports all Unix shell commands (ls, cd, mv, grep, etc.).
 
-[! https://img.shields.io/badge/Download--Cheat--Sheet](https://github.com/abdullah-al-faahim/gitbash-commands/raw/main/git_bash_cheat_sheet.pdf)
+https://img.shields.io/badge/Download--Cheat--Sheet(https://github.com/abdullah-al-faahim/gitbash-commands/raw/main/git_bash_cheat_sheet.pdf)
 
 
 
