@@ -92,6 +92,7 @@ cat file.txt
 nano file.txt
 less file.txt
 ```
+---
 
 ## **Useful Extras**
 
