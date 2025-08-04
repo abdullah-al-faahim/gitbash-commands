@@ -1,7 +1,12 @@
 # 🖥️ Git Bash Command Cheat Sheet
 
 A beginner-friendly **Git Bash command reference** that covers essential **Git** and **Bash (Linux)** commands.  
-This cheat sheet is perfect for developers working on Windows who use Git Bash for version control and terminal commands.
+This cheat sheet is perfect for developers working on Windows who use Git Bash for version control and terminal commands. <br>
+
+Git Bash is a terminal that lets you run Git commands and Unix/Linux commands on Windows.
+You can't realistically list all commands in a single message because:
+1. Git has hundreds of commands and options.
+2. Bash supports all Unix shell commands (ls, cd, mv, grep, etc.).
 
 ---
 
