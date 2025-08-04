@@ -8,7 +8,7 @@ This cheat sheet is perfect for developers working on Windows who use Git Bash f
 ## 📄 Download the PDF
 
 You can download the printable PDF version of this cheat sheet here:  
-[📥 Git Bash Command Cheat Sheet (PDF)](git_bash_cheat_sheet.pdf)
+[📥 Git Bash Command Cheat Sheet (PDF)]([git_bash_cheat_sheet.pdf](https://github.com/abdullah-al-faahim/gitbash-commands/blob/main/git_bash_cheat_sheet.pdf))
 
 ---
 
