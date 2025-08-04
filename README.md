@@ -2,7 +2,6 @@
 
 A beginner-friendly **Git Bash command reference** that covers essential **Git** and **Bash (Linux)** commands.  
 This cheat sheet is perfect for developers working on Windows who use Git Bash for version control and terminal commands.
-![Static Badge](https://img.shields.io/badge/Download--Cheat--Sheet)
 
 
 
@@ -12,8 +11,7 @@ This cheat sheet is perfect for developers working on Windows who use Git Bash f
 	<h2 align="center">📄 Download the PDF</h2>
 	<p align="center">
     	You can download the printable PDF version of this cheat sheet here:  <br>
-[📥 Download Git Bash Command Cheat Sheet](https://github.com/abdullah-al-faahim/gitbash-commands/raw/main/git_bash_cheat_sheet.pdf)<br>
-https://img.shields.io/github/downloads/abdullah-al-faahim/gitbash-commands/git_bash_cheaqt_sheet.pdf?label=Download
+		![Static Badge](https://img.shields.io/badge/Download--Cheat--Sheet)
   	</p>
 </div>
 
