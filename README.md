@@ -9,7 +9,7 @@ You can't realistically list all commands in a single message because:
 2. Bash supports all Unix shell commands (ls, cd, mv, grep, etc.).
 
 <a href="https://github.com/abdullah-al-faahim/gitbash-commands/raw/main/git_bash_cheat_sheet.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download--Cheat--Sheet-green?style=for-the-badge&logo=github" alt="Download Cheat Sheet (PDF)">
+  <img src="https://img.shields.io/badge/Download--Cheat--Sheet-red?style=for-the-badge&logo=github" alt="Download Cheat Sheet (PDF)">
 </a>
 
 
