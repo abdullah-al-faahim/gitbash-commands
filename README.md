@@ -3,19 +3,6 @@
 A beginner-friendly **Git Bash command reference** that covers essential **Git** and **Bash (Linux)** commands.  
 This cheat sheet is perfect for developers working on Windows who use Git Bash for version control and terminal commands.
 
-
-
----
-
-<div align="center">
-	<h2 align="center">📄 Download the PDF</h2>
-	<p align="center">
-    	You can download the printable PDF version of this cheat sheet here:  <br>
-		![Static Badge](https://img.shields.io/badge/Download--Cheat--Sheet)
-  	</p>
-</div>
-
-
 ---
 
 ## 📌 Git Commands
@@ -70,4 +57,56 @@ git reset HEAD <file>
 git reset --hard
 ```
 
-### **
+---
+
+## **🐧 Bash Commands (in Git Bash)**
+
+### ** Navigation**
+```bash
+pwd
+ls
+ls -la
+cd <dir>
+cd ..
+```
+
+### ** Files & Directories**
+```bash
+touch file.txt
+mkdir newfolder
+rm file.txt
+rm -r folder
+mv old.txt new.txt
+cp file.txt copy.txt
+```
+
+### **Search**
+```bash
+grep "word" file.txt
+find . -name "*.txt"
+```
+
+### **View & Edit**
+```bash
+```
+
+## **Useful Extras**
+
+```bash
+clear
+history
+echo "Hello"
+whoami
+```
+
+## 📜 License
+This cheat sheet is open-source and free to use under the MIT License.
+
+## 📧 Contact
+--
+Abdullah Al Fahim | alfahim604@yahoo.com
+
+
+
+
+
