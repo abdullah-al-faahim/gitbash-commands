@@ -76,7 +76,7 @@ git reset --hard
 
 ## **🐧 Bash Commands (in Git Bash)**
 
-### ** Navigation**
+### **Navigation**
 ```bash
 pwd
 ls
@@ -85,7 +85,7 @@ cd <dir>
 cd ..
 ```
 
-### ** Files & Directories**
+### **Files & Directories**
 ```bash
 touch file.txt
 mkdir newfolder
